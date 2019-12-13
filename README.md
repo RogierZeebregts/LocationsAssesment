@@ -1,3 +1,5 @@
+https://codesandbox.io/s/github/RogierZeebregts/JumboAssesment
+
 # Assessment for Jumbo
 
 - Replace the hardcoded cities list a dynamic one (from the given stores array) 
